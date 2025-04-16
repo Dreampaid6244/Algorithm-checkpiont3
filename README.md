@@ -1,5 +1,7 @@
 
 Defintion of algorithm
+
+
 An algorithm is a step-by-step set of instructions designed to perform a task or solve a specific problem.
 An algorithm is the logic or procedure behind solving a problem using code. It tells the computer how to do something
 
@@ -7,6 +9,8 @@ An algorithm is the logic or procedure behind solving a problem using code. It t
 
 
 Key Features of an Algorithm:
+
+
 Input: It takes zero or more inputs.
 
 Output: It produces at least one output.
@@ -19,7 +23,9 @@ Effectiveness: All steps are basic enough to be carried out
 
  
  
- Common Algorithm Types:
+ Common Algorithm Types:'
+
+ 
 Sorting (e.g., Bubble Sort, Merge Sort)
 
 Searching (e.g., Binary Search)
@@ -35,6 +41,8 @@ Backtracking
 
 
  Example (Simple Algorithm):
+
+ 
 Problem: Find the largest number in an array.
 
 Algorithm Steps:
